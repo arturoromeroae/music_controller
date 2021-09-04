@@ -1,4 +1,4 @@
-# music_controller App
+# 🎶 Music Controller App
 Created by [Arturo Romero](https://arturoromero.online/)
 - This app is created with __Python__ and __JavaScript__
 - __django framework__ & __ReactJs__
@@ -17,4 +17,4 @@ Created by [Arturo Romero](https://arturoromero.online/)
 python manage.py runserver
 
 ## NPM Init Dev Server ReactJs Windows 👇
-python manage.py runserver
+npm run dev
