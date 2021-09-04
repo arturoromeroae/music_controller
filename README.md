@@ -1,6 +1,6 @@
 # music_controller App
-- This app is created with Python and JavaScript
-- django framework & ReactJs
+- This app is created with __Python__ and __JavaScript__
+- __django framework__ & __ReactJs__
 
 ## NPM Setup Commands 👇
 * npm init -y
