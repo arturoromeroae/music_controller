@@ -1,4 +1,5 @@
 # music_controller App
+Created by [Arturo Romero](https://arturoromero.online/)
 - This app is created with __Python__ and __JavaScript__
 - __django framework__ & __ReactJs__
 
