@@ -12,3 +12,9 @@ Created by [Arturo Romero](https://arturoromero.online/)
 * npm install @babel/plugin-proposal-class-properties
 * npm install react-router-dom
 * npm install @material-ui/icons
+
+## Django Init Dev Server Windows 👇
+python manage.py runserver
+
+## NPM Init Dev Server ReactJs Windows 👇
+python manage.py runserver
